@@ -1,11 +1,13 @@
 h1{
   background-color: coral;
+  border: 2px solid olive
 }
 
 h3{
   background-color: coral;
-  
+  border: 2px solid olive;
+
 }
 body {
-  background-color: Olive ;
+  background-color: lightgray ;
 }
